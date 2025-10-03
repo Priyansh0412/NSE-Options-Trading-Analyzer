@@ -8,6 +8,7 @@ A Python desktop application for analyzing NSE options trading data with strike 
 - Python 3.7+
 - pandas
 - openpyxl
+- tkinter
 
 ### Install Dependencies
 ```bash
@@ -18,7 +19,7 @@ pip install pandas openpyxl tkinter requests
 
 Run the application:
 ```bash
-python options_analyzer.py
+python main.py
 ```
 
 1. Set margin percentage (default: 15%)
