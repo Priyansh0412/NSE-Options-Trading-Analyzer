@@ -11,7 +11,7 @@ A Python desktop application for analyzing NSE options trading data with strike 
 
 ### Install Dependencies
 ```bash
-pip install pandas openpyxl
+pip install pandas openpyxl tkinter requests
 ```
 
 ## Usage
